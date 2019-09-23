@@ -4,9 +4,11 @@ Execute a command and receive a Telegram alert when it finish
 
 ## Configuration
 
+```
 export TGALERT_CHAT_ID="999999999"
 export TGALERT_APIKEY="999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 export TGALERT_HOSTNAME="username@hostname" (optional)
+```
 
 ## Run
 
