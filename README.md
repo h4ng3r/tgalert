@@ -10,6 +10,8 @@ export TGALERT_APIKEY="999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 export TGALERT_HOSTNAME="username@hostname" (optional)
 ```
 
+To get the CHAT_ID just https://api.telegram.org/bot$TGALERT_APIKEY/getUpdates and speak with him.
+
 ## Run
 
 ```
